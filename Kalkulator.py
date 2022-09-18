@@ -1,3 +1,9 @@
+#Rekayasa Perangkat Lunak
+#Kelompok 4 
+# Abit Yudha Prasetyo (H1A020013)
+# Ratna Iramaya Aziza(H1A020012)
+# Muhammad Satria Adjie Nugraha (H1A020081)
+
 # Membuat Kalkulator Sederhana
 # Potongan Program Maya
 def add(x, y):
